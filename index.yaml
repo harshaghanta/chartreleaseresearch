@@ -3,6 +3,16 @@ entries:
   samplechart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-07-23T13:59:29.232794249Z"
+    description: A Helm chart for Kubernetes
+    digest: 93201f3ec09cba5722b6367fa387a52b5421ba718678692d302920216e896d91
+    name: samplechart
+    type: application
+    urls:
+    - https://github.com/harshaghanta/chartreleaseresearch/releases/download/samplechart-0.1.1/samplechart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-07-23T13:38:32.74660985Z"
     description: A Helm chart for Kubernetes
     digest: 9826dd1beee667dfb3a03810bca2ff26e543a372464997be178a131f074e16d8
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/harshaghanta/chartreleaseresearch/releases/download/samplechart-0.1.0/samplechart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-23T13:38:32.746621161Z"
+generated: "2025-07-23T13:59:29.232803326Z"
